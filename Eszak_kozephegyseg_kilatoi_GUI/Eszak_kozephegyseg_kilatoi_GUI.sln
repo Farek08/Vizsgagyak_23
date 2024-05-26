@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34622.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Eszak_kozephegyseg_kilatoi_GUI", "Eszak_kozephegyseg_kilatoi_GUI\Eszak_kozephegyseg_kilatoi_GUI.csproj", "{D39530EF-3032-4D22-BB81-BD7D7C1CFB69}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D39530EF-3032-4D22-BB81-BD7D7C1CFB69}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D39530EF-3032-4D22-BB81-BD7D7C1CFB69}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D39530EF-3032-4D22-BB81-BD7D7C1CFB69}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D39530EF-3032-4D22-BB81-BD7D7C1CFB69}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6C66565B-F86B-46AC-B01D-768032CB6318}
+	EndGlobalSection
+EndGlobal

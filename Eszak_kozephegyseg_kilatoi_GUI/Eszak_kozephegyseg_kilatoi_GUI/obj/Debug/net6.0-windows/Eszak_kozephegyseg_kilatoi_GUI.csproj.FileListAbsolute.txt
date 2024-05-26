@@ -1,0 +1,86 @@
+T:\Balogh Bence\14F\WPF\2024.04.03_VizsgaGyak_23\Eszak_kozephegyseg_kilatoi_GUI\Eszak_kozephegyseg_kilatoi_GUI\bin\Debug\net6.0-windows\Eszak_kozephegyseg_kilatoi_GUI.exe
+T:\Balogh Bence\14F\WPF\2024.04.03_VizsgaGyak_23\Eszak_kozephegyseg_kilatoi_GUI\Eszak_kozephegyseg_kilatoi_GUI\bin\Debug\net6.0-windows\Eszak_kozephegyseg_kilatoi_GUI.deps.json
+T:\Balogh Bence\14F\WPF\2024.04.03_VizsgaGyak_23\Eszak_kozephegyseg_kilatoi_GUI\Eszak_kozephegyseg_kilatoi_GUI\bin\Debug\net6.0-windows\Eszak_kozephegyseg_kilatoi_GUI.runtimeconfig.json
+T:\Balogh Bence\14F\WPF\2024.04.03_VizsgaGyak_23\Eszak_kozephegyseg_kilatoi_GUI\Eszak_kozephegyseg_kilatoi_GUI\bin\Debug\net6.0-windows\Eszak_kozephegyseg_kilatoi_GUI.dll
+T:\Balogh Bence\14F\WPF\2024.04.03_VizsgaGyak_23\Eszak_kozephegyseg_kilatoi_GUI\Eszak_kozephegyseg_kilatoi_GUI\bin\Debug\net6.0-windows\Eszak_kozephegyseg_kilatoi_GUI.pdb
+T:\Balogh Bence\14F\WPF\2024.04.03_VizsgaGyak_23\Eszak_kozephegyseg_kilatoi_GUI\Eszak_kozephegyseg_kilatoi_GUI\obj\Debug\net6.0-windows\MainWindow.g.cs
+T:\Balogh Bence\14F\WPF\2024.04.03_VizsgaGyak_23\Eszak_kozephegyseg_kilatoi_GUI\Eszak_kozephegyseg_kilatoi_GUI\obj\Debug\net6.0-windows\App.g.cs
+T:\Balogh Bence\14F\WPF\2024.04.03_VizsgaGyak_23\Eszak_kozephegyseg_kilatoi_GUI\Eszak_kozephegyseg_kilatoi_GUI\obj\Debug\net6.0-windows\Eszak_kozephegyseg_kilatoi_GUI_MarkupCompile.cache
+T:\Balogh Bence\14F\WPF\2024.04.03_VizsgaGyak_23\Eszak_kozephegyseg_kilatoi_GUI\Eszak_kozephegyseg_kilatoi_GUI\obj\Debug\net6.0-windows\Eszak_kozephegyseg_kilatoi_GUI_MarkupCompile.lref
+T:\Balogh Bence\14F\WPF\2024.04.03_VizsgaGyak_23\Eszak_kozephegyseg_kilatoi_GUI\Eszak_kozephegyseg_kilatoi_GUI\obj\Debug\net6.0-windows\MainWindow.baml
+T:\Balogh Bence\14F\WPF\2024.04.03_VizsgaGyak_23\Eszak_kozephegyseg_kilatoi_GUI\Eszak_kozephegyseg_kilatoi_GUI\obj\Debug\net6.0-windows\Eszak_kozephegyseg_kilatoi_GUI.g.resources
+T:\Balogh Bence\14F\WPF\2024.04.03_VizsgaGyak_23\Eszak_kozephegyseg_kilatoi_GUI\Eszak_kozephegyseg_kilatoi_GUI\obj\Debug\net6.0-windows\Eszak_kozephegyseg_kilatoi_GUI.GeneratedMSBuildEditorConfig.editorconfig
+T:\Balogh Bence\14F\WPF\2024.04.03_VizsgaGyak_23\Eszak_kozephegyseg_kilatoi_GUI\Eszak_kozephegyseg_kilatoi_GUI\obj\Debug\net6.0-windows\Eszak_kozephegyseg_kilatoi_GUI.AssemblyInfoInputs.cache
+T:\Balogh Bence\14F\WPF\2024.04.03_VizsgaGyak_23\Eszak_kozephegyseg_kilatoi_GUI\Eszak_kozephegyseg_kilatoi_GUI\obj\Debug\net6.0-windows\Eszak_kozephegyseg_kilatoi_GUI.AssemblyInfo.cs
+T:\Balogh Bence\14F\WPF\2024.04.03_VizsgaGyak_23\Eszak_kozephegyseg_kilatoi_GUI\Eszak_kozephegyseg_kilatoi_GUI\obj\Debug\net6.0-windows\Eszak_kozephegyseg_kilatoi_GUI.csproj.CoreCompileInputs.cache
+T:\Balogh Bence\14F\WPF\2024.04.03_VizsgaGyak_23\Eszak_kozephegyseg_kilatoi_GUI\Eszak_kozephegyseg_kilatoi_GUI\obj\Debug\net6.0-windows\Eszak_kozephegyseg_kilatoi_GUI.dll
+T:\Balogh Bence\14F\WPF\2024.04.03_VizsgaGyak_23\Eszak_kozephegyseg_kilatoi_GUI\Eszak_kozephegyseg_kilatoi_GUI\obj\Debug\net6.0-windows\refint\Eszak_kozephegyseg_kilatoi_GUI.dll
+T:\Balogh Bence\14F\WPF\2024.04.03_VizsgaGyak_23\Eszak_kozephegyseg_kilatoi_GUI\Eszak_kozephegyseg_kilatoi_GUI\obj\Debug\net6.0-windows\Eszak_kozephegyseg_kilatoi_GUI.pdb
+T:\Balogh Bence\14F\WPF\2024.04.03_VizsgaGyak_23\Eszak_kozephegyseg_kilatoi_GUI\Eszak_kozephegyseg_kilatoi_GUI\obj\Debug\net6.0-windows\Eszak_kozephegyseg_kilatoi_GUI.genruntimeconfig.cache
+T:\Balogh Bence\14F\WPF\2024.04.03_VizsgaGyak_23\Eszak_kozephegyseg_kilatoi_GUI\Eszak_kozephegyseg_kilatoi_GUI\obj\Debug\net6.0-windows\ref\Eszak_kozephegyseg_kilatoi_GUI.dll
+T:\Balogh Bence\14F\WPF\2024.04.03_VizsgaGyak_23\Eszak_kozephegyseg_kilatoi_GUI\Eszak_kozephegyseg_kilatoi_GUI\bin\Debug\net6.0-windows\Humanizer.dll
+T:\Balogh Bence\14F\WPF\2024.04.03_VizsgaGyak_23\Eszak_kozephegyseg_kilatoi_GUI\Eszak_kozephegyseg_kilatoi_GUI\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+T:\Balogh Bence\14F\WPF\2024.04.03_VizsgaGyak_23\Eszak_kozephegyseg_kilatoi_GUI\Eszak_kozephegyseg_kilatoi_GUI\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+T:\Balogh Bence\14F\WPF\2024.04.03_VizsgaGyak_23\Eszak_kozephegyseg_kilatoi_GUI\Eszak_kozephegyseg_kilatoi_GUI\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+T:\Balogh Bence\14F\WPF\2024.04.03_VizsgaGyak_23\Eszak_kozephegyseg_kilatoi_GUI\Eszak_kozephegyseg_kilatoi_GUI\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+T:\Balogh Bence\14F\WPF\2024.04.03_VizsgaGyak_23\Eszak_kozephegyseg_kilatoi_GUI\Eszak_kozephegyseg_kilatoi_GUI\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+T:\Balogh Bence\14F\WPF\2024.04.03_VizsgaGyak_23\Eszak_kozephegyseg_kilatoi_GUI\Eszak_kozephegyseg_kilatoi_GUI\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+T:\Balogh Bence\14F\WPF\2024.04.03_VizsgaGyak_23\Eszak_kozephegyseg_kilatoi_GUI\Eszak_kozephegyseg_kilatoi_GUI\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+T:\Balogh Bence\14F\WPF\2024.04.03_VizsgaGyak_23\Eszak_kozephegyseg_kilatoi_GUI\Eszak_kozephegyseg_kilatoi_GUI\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+T:\Balogh Bence\14F\WPF\2024.04.03_VizsgaGyak_23\Eszak_kozephegyseg_kilatoi_GUI\Eszak_kozephegyseg_kilatoi_GUI\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+T:\Balogh Bence\14F\WPF\2024.04.03_VizsgaGyak_23\Eszak_kozephegyseg_kilatoi_GUI\Eszak_kozephegyseg_kilatoi_GUI\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyModel.dll
+T:\Balogh Bence\14F\WPF\2024.04.03_VizsgaGyak_23\Eszak_kozephegyseg_kilatoi_GUI\Eszak_kozephegyseg_kilatoi_GUI\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+T:\Balogh Bence\14F\WPF\2024.04.03_VizsgaGyak_23\Eszak_kozephegyseg_kilatoi_GUI\Eszak_kozephegyseg_kilatoi_GUI\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+T:\Balogh Bence\14F\WPF\2024.04.03_VizsgaGyak_23\Eszak_kozephegyseg_kilatoi_GUI\Eszak_kozephegyseg_kilatoi_GUI\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+T:\Balogh Bence\14F\WPF\2024.04.03_VizsgaGyak_23\Eszak_kozephegyseg_kilatoi_GUI\Eszak_kozephegyseg_kilatoi_GUI\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+T:\Balogh Bence\14F\WPF\2024.04.03_VizsgaGyak_23\Eszak_kozephegyseg_kilatoi_GUI\Eszak_kozephegyseg_kilatoi_GUI\bin\Debug\net6.0-windows\Mono.TextTemplating.dll
+T:\Balogh Bence\14F\WPF\2024.04.03_VizsgaGyak_23\Eszak_kozephegyseg_kilatoi_GUI\Eszak_kozephegyseg_kilatoi_GUI\bin\Debug\net6.0-windows\MySqlConnector.dll
+T:\Balogh Bence\14F\WPF\2024.04.03_VizsgaGyak_23\Eszak_kozephegyseg_kilatoi_GUI\Eszak_kozephegyseg_kilatoi_GUI\bin\Debug\net6.0-windows\Pomelo.EntityFrameworkCore.MySql.dll
+T:\Balogh Bence\14F\WPF\2024.04.03_VizsgaGyak_23\Eszak_kozephegyseg_kilatoi_GUI\Eszak_kozephegyseg_kilatoi_GUI\bin\Debug\net6.0-windows\System.Text.Encodings.Web.dll
+T:\Balogh Bence\14F\WPF\2024.04.03_VizsgaGyak_23\Eszak_kozephegyseg_kilatoi_GUI\Eszak_kozephegyseg_kilatoi_GUI\bin\Debug\net6.0-windows\System.Text.Json.dll
+T:\Balogh Bence\14F\WPF\2024.04.03_VizsgaGyak_23\Eszak_kozephegyseg_kilatoi_GUI\Eszak_kozephegyseg_kilatoi_GUI\bin\Debug\net6.0-windows\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+T:\Balogh Bence\14F\WPF\2024.04.03_VizsgaGyak_23\Eszak_kozephegyseg_kilatoi_GUI\Eszak_kozephegyseg_kilatoi_GUI\obj\Debug\net6.0-windows\Eszak_kozephegyseg_kilatoi_GUI.csproj.AssemblyReference.cache
+T:\Balogh Bence\14F\WPF\2024.04.03_VizsgaGyak_23\Eszak_kozephegyseg_kilatoi_GUI\Eszak_kozephegyseg_kilatoi_GUI\obj\Debug\net6.0-windows\Eszak_ko.CF0CBA75.Up2Date
+D:\BB\Eszak_kozephegyseg_kilatoi_GUI\Eszak_kozephegyseg_kilatoi_GUI\bin\Debug\net6.0-windows\Eszak_kozephegyseg_kilatoi_GUI.exe
+D:\BB\Eszak_kozephegyseg_kilatoi_GUI\Eszak_kozephegyseg_kilatoi_GUI\bin\Debug\net6.0-windows\Eszak_kozephegyseg_kilatoi_GUI.deps.json
+D:\BB\Eszak_kozephegyseg_kilatoi_GUI\Eszak_kozephegyseg_kilatoi_GUI\bin\Debug\net6.0-windows\Eszak_kozephegyseg_kilatoi_GUI.runtimeconfig.json
+D:\BB\Eszak_kozephegyseg_kilatoi_GUI\Eszak_kozephegyseg_kilatoi_GUI\bin\Debug\net6.0-windows\Eszak_kozephegyseg_kilatoi_GUI.dll
+D:\BB\Eszak_kozephegyseg_kilatoi_GUI\Eszak_kozephegyseg_kilatoi_GUI\bin\Debug\net6.0-windows\Eszak_kozephegyseg_kilatoi_GUI.pdb
+D:\BB\Eszak_kozephegyseg_kilatoi_GUI\Eszak_kozephegyseg_kilatoi_GUI\bin\Debug\net6.0-windows\Humanizer.dll
+D:\BB\Eszak_kozephegyseg_kilatoi_GUI\Eszak_kozephegyseg_kilatoi_GUI\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+D:\BB\Eszak_kozephegyseg_kilatoi_GUI\Eszak_kozephegyseg_kilatoi_GUI\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\BB\Eszak_kozephegyseg_kilatoi_GUI\Eszak_kozephegyseg_kilatoi_GUI\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+D:\BB\Eszak_kozephegyseg_kilatoi_GUI\Eszak_kozephegyseg_kilatoi_GUI\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+D:\BB\Eszak_kozephegyseg_kilatoi_GUI\Eszak_kozephegyseg_kilatoi_GUI\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+D:\BB\Eszak_kozephegyseg_kilatoi_GUI\Eszak_kozephegyseg_kilatoi_GUI\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+D:\BB\Eszak_kozephegyseg_kilatoi_GUI\Eszak_kozephegyseg_kilatoi_GUI\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\BB\Eszak_kozephegyseg_kilatoi_GUI\Eszak_kozephegyseg_kilatoi_GUI\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+D:\BB\Eszak_kozephegyseg_kilatoi_GUI\Eszak_kozephegyseg_kilatoi_GUI\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\BB\Eszak_kozephegyseg_kilatoi_GUI\Eszak_kozephegyseg_kilatoi_GUI\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyModel.dll
+D:\BB\Eszak_kozephegyseg_kilatoi_GUI\Eszak_kozephegyseg_kilatoi_GUI\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+D:\BB\Eszak_kozephegyseg_kilatoi_GUI\Eszak_kozephegyseg_kilatoi_GUI\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+D:\BB\Eszak_kozephegyseg_kilatoi_GUI\Eszak_kozephegyseg_kilatoi_GUI\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+D:\BB\Eszak_kozephegyseg_kilatoi_GUI\Eszak_kozephegyseg_kilatoi_GUI\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+D:\BB\Eszak_kozephegyseg_kilatoi_GUI\Eszak_kozephegyseg_kilatoi_GUI\bin\Debug\net6.0-windows\Mono.TextTemplating.dll
+D:\BB\Eszak_kozephegyseg_kilatoi_GUI\Eszak_kozephegyseg_kilatoi_GUI\bin\Debug\net6.0-windows\MySqlConnector.dll
+D:\BB\Eszak_kozephegyseg_kilatoi_GUI\Eszak_kozephegyseg_kilatoi_GUI\bin\Debug\net6.0-windows\Pomelo.EntityFrameworkCore.MySql.dll
+D:\BB\Eszak_kozephegyseg_kilatoi_GUI\Eszak_kozephegyseg_kilatoi_GUI\bin\Debug\net6.0-windows\System.Text.Encodings.Web.dll
+D:\BB\Eszak_kozephegyseg_kilatoi_GUI\Eszak_kozephegyseg_kilatoi_GUI\bin\Debug\net6.0-windows\System.Text.Json.dll
+D:\BB\Eszak_kozephegyseg_kilatoi_GUI\Eszak_kozephegyseg_kilatoi_GUI\bin\Debug\net6.0-windows\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+D:\BB\Eszak_kozephegyseg_kilatoi_GUI\Eszak_kozephegyseg_kilatoi_GUI\obj\Debug\net6.0-windows\Eszak_kozephegyseg_kilatoi_GUI.csproj.AssemblyReference.cache
+D:\BB\Eszak_kozephegyseg_kilatoi_GUI\Eszak_kozephegyseg_kilatoi_GUI\obj\Debug\net6.0-windows\MainWindow.g.cs
+D:\BB\Eszak_kozephegyseg_kilatoi_GUI\Eszak_kozephegyseg_kilatoi_GUI\obj\Debug\net6.0-windows\App.g.cs
+D:\BB\Eszak_kozephegyseg_kilatoi_GUI\Eszak_kozephegyseg_kilatoi_GUI\obj\Debug\net6.0-windows\Eszak_kozephegyseg_kilatoi_GUI_MarkupCompile.cache
+D:\BB\Eszak_kozephegyseg_kilatoi_GUI\Eszak_kozephegyseg_kilatoi_GUI\obj\Debug\net6.0-windows\Eszak_kozephegyseg_kilatoi_GUI_MarkupCompile.lref
+D:\BB\Eszak_kozephegyseg_kilatoi_GUI\Eszak_kozephegyseg_kilatoi_GUI\obj\Debug\net6.0-windows\MainWindow.baml
+D:\BB\Eszak_kozephegyseg_kilatoi_GUI\Eszak_kozephegyseg_kilatoi_GUI\obj\Debug\net6.0-windows\Eszak_kozephegyseg_kilatoi_GUI.g.resources
+D:\BB\Eszak_kozephegyseg_kilatoi_GUI\Eszak_kozephegyseg_kilatoi_GUI\obj\Debug\net6.0-windows\Eszak_kozephegyseg_kilatoi_GUI.GeneratedMSBuildEditorConfig.editorconfig
+D:\BB\Eszak_kozephegyseg_kilatoi_GUI\Eszak_kozephegyseg_kilatoi_GUI\obj\Debug\net6.0-windows\Eszak_kozephegyseg_kilatoi_GUI.AssemblyInfoInputs.cache
+D:\BB\Eszak_kozephegyseg_kilatoi_GUI\Eszak_kozephegyseg_kilatoi_GUI\obj\Debug\net6.0-windows\Eszak_kozephegyseg_kilatoi_GUI.AssemblyInfo.cs
+D:\BB\Eszak_kozephegyseg_kilatoi_GUI\Eszak_kozephegyseg_kilatoi_GUI\obj\Debug\net6.0-windows\Eszak_kozephegyseg_kilatoi_GUI.csproj.CoreCompileInputs.cache
+D:\BB\Eszak_kozephegyseg_kilatoi_GUI\Eszak_kozephegyseg_kilatoi_GUI\obj\Debug\net6.0-windows\Eszak_ko.CF0CBA75.Up2Date
+D:\BB\Eszak_kozephegyseg_kilatoi_GUI\Eszak_kozephegyseg_kilatoi_GUI\obj\Debug\net6.0-windows\Eszak_kozephegyseg_kilatoi_GUI.dll
+D:\BB\Eszak_kozephegyseg_kilatoi_GUI\Eszak_kozephegyseg_kilatoi_GUI\obj\Debug\net6.0-windows\refint\Eszak_kozephegyseg_kilatoi_GUI.dll
+D:\BB\Eszak_kozephegyseg_kilatoi_GUI\Eszak_kozephegyseg_kilatoi_GUI\obj\Debug\net6.0-windows\Eszak_kozephegyseg_kilatoi_GUI.pdb
+D:\BB\Eszak_kozephegyseg_kilatoi_GUI\Eszak_kozephegyseg_kilatoi_GUI\obj\Debug\net6.0-windows\Eszak_kozephegyseg_kilatoi_GUI.genruntimeconfig.cache
+D:\BB\Eszak_kozephegyseg_kilatoi_GUI\Eszak_kozephegyseg_kilatoi_GUI\obj\Debug\net6.0-windows\ref\Eszak_kozephegyseg_kilatoi_GUI.dll
